@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="/Users/k_kato0804/Desktop/project2026_10/task_bag_api/bag_gen"/>
+		<item key="apply_working_sets" value="false"/>
+		<list key="working_sets">
+		</list>
+		<section name="ProjectImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="214"/>
+			<item key="DIALOG_Y_ORIGIN" value="-32"/>
+			<item key="DIALOG_WIDTH" value="597"/>
+			<item key="DIALOG_HEIGHT" value="756"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="java_home" value="/Applications/Eclipse_2024-09.app/Contents/java/17"/>
+		<list key="arguments">
+			<item value="--init-script"/>
+			<item value="../.metadata/init.gradle"/>
+		</list>
+		<section name="ProjectCreationWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="219"/>
+			<item key="DIALOG_Y_ORIGIN" value="-33"/>
+			<item key="DIALOG_WIDTH" value="586"/>
+			<item key="DIALOG_HEIGHT" value="756"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+</section>
