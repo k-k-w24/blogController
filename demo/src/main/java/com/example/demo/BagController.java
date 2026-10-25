@@ -39,7 +39,7 @@ public class BagController {
 	public Bag get(@PathVariable Long id) {
 		return bags.stream().filter(b -> b.id().equals(id)).findFirst().orElse(null);
 	}
-
+//
 	// ステップ3: @PostMapping + @RequestBody
 	@PostMapping
 	public Bag create(@RequestBody Bag req) {
